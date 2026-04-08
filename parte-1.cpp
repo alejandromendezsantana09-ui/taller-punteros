@@ -15,7 +15,6 @@ int main() {
     int b = 20;
 
     cout << "Antes: a = " << a << ", b = " << b << endl;
-    intercambiar(&a, &b);
     
  cout << "Después: a = " << a << ", b = " << b << endl;
 
